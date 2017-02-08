@@ -1,0 +1,8 @@
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\bin\Debug\DPR_assignment_w1.exe
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\bin\Debug\DPR_assignment_w1.pdb
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.csprojResolveAssemblyReference.cache
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.Properties.Resources.resources
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.csproj.GenerateResource.Cache
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.exe
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.pdb
+C:\Users\Gintare\Desktop\DPR_Rep\DPR_assignment_w1\DPR_assignment_w1\obj\Debug\DPR_assignment_w1.Form1.resources
